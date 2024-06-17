@@ -13,9 +13,9 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='Hongrui Zheng, zzangupenn',
-    maintainer_email='billyzheng.bz@gmail.com, zzang@seas.upenn.edu',
-    description='Skeleton code for Lab 1: Automatic Emergency Braking at University of Pennsylvania',
+    maintainer='GHIATI Mustapha',
+    maintainer_email='mustapha.ghiati@ui.ac.ma',
+    description='this is my solution for Lab 2: Automatic Emergency Braking at University of Pennsylvania',
     license='MIT',
     tests_require=['pytest'],
     entry_points={
